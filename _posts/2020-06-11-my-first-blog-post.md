@@ -1,4 +1,7 @@
-title: "Welcome to my blog"/
+---
+title: "Welcome to my blog"
 date: 2020-06-11
+---
+
 
 If you can imagine a furry humanoid seven feet tall, with the face of an intelligent gorilla and the braincase of a man, you'll have a rough idea of what they looked like -- except for their teeth. The canines would have fitted better in the face of a tiger, and showed at the corners of their wide, thin-lipped mouths, giving them an expression of ferocity.
