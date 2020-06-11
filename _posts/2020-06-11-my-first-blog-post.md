@@ -8,6 +8,6 @@ Three things I am proud of doing in highschool
 My snap code is b4obama
 My instagram username is w_i_l_l_0_3_3
 theme: minima
-<img src = "https://user-images.githubusercontent.com/66784863/84449799-6f9f6400-ac1c-11ea-98ec-ab123cb4bb3e.png">
+https://user-images.githubusercontent.com/66784863/84449799-6f9f6400-ac1c-11ea-98ec-ab123cb4bb3e.png
 
 ---
