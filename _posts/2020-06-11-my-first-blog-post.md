@@ -8,5 +8,5 @@ Three things I am proud of doing in highschool
 My snap code is b4obama
 My instagram username is w_i_l_l_0_3_3
 theme: minima
-https://github.com/Will033/github-pages-with-jekyll/issues/6#issue-637395077
+![image](https://user-images.githubusercontent.com/66784863/84450600-9363a980-ac1e-11ea-93bc-25d1f2310c25.png)
 ---
